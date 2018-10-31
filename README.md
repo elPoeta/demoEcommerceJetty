@@ -1,5 +1,5 @@
 # demoEcommerceJetty
- Demo of an ecommerce using Jetty embedded server with in-memory HSQLDB database in a single process
+ Demo of an ecommerce using Jetty embedded server with in-memory HSQLDB database in a single process with PayPal
 
 ## How to use?
 
