@@ -1,7 +1,7 @@
 # demoEcommerceJetty
  Demo of an ecommerce using Jetty embedded server with in-memory HSQLDB database in a single process
 
-##How to use?
+## How to use?
 
 unzip file, open terminal navigate to ecommerceJetty folder and write
 
